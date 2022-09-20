@@ -1,8 +1,8 @@
 # PythonTutorials
 
-Currently this repository contains code to practice for: \n
-    Simple calculator\n
-    Pound-Kg calculator\n
-    Use of Arguments\n\n
+Currently this repository contains code to practice for: <br>
+    Simple calculator<br>
+    Pound-Kg calculator<br>
+    Use of Arguments<br><br>
 
 Tutorial link- https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=1222s
