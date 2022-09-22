@@ -1,4 +1,5 @@
-''' Program to ask for user input and print if it's a Hot, Normal or Cold day.
+''' Program to ask for user input
+    and print if it's a Hot, Normal or Cold day.
 '''
 feeling = input("Hello, are you feeling Hot, Cold or Normal today?\n")
 if feeling.lower() == 'hot':
