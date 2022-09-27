@@ -1,6 +1,6 @@
 # PythonTutorials
 
-Currently this repository contains code to practice for: <br>
+Currently, this repository contains code to practice for: <br>
     Simple calculator<br>
     Pound-Kg calculator<br>
     Use of Arguments<br>
