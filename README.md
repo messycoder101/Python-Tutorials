@@ -11,4 +11,9 @@ Currently, this repository contains code to practice for: <br>
 8. Guessing game<br>
 9. For loops<br><br>
 
-Tutorial link- https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=1222s
+<b>Tutorial links-</b><br>
+Programming with mosh (YouTube) (https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=1222s)<br>
+<b><br>Practice here:</b><br>
+<a href="https://www.geeksforgeeks.org/python-programming-language/?ref=shm">GeeksforGeeks</a><br>
+<a href="https://www.w3schools.com/python/default.asp">W3Schools</a>,<br>
+<a href="https://www.codecademy.com/learn/learn-python-3">CodeCademy</a>  <br>
